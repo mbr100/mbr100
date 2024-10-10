@@ -5,12 +5,19 @@
 
 ## Acerca de mi 👨‍💻:
 
-¡Hola! 💻 Soy Mario Borrego, tengo 28 años y soy un apasionado de la tecnología. Siempre estoy buscando nuevas maneras de
-entenderla y aprovecharla al máximo. Mi curiosidad y deseo de aprender me llevan a investigar y explorar áreas
-innovadoras, ya sea en desarrollo de software, infraestructura o automatización.
+¡Hola! 💻 Me presento mi nombre es Mario Borrego, tengo 28 años y soy Desarrollador. Obtuve mi título de Ingeniería
+Informática de Servicios y Aplicaciones por la Universidad de Valladolid. Me defino como una persona apasionada de la de
+la tecnología. Por eso siempre intento mantenerme al día buscando los últimos avances tecnológicos e intentando
+entenderlos por si los puedo aprovechar.
 
-En este repositorio, encontrarás proyectos que reflejan mi interés por la tecnología y mi dedicación a crear soluciones
-prácticas y efectivas. ¡Explora, comenta y siéntete libre de conectarte conmigo para compartir ideas!
+Esta curiosidad y ganas de aprender me empujan a investigar y probarla, es por ello por lo que tengo montado mi propio
+mini laboratorio casero con maquinas virtuales y contenedores lo que me ha permitido investigarlas sin miedo. Todo esto
+me ha permitido investigar y tener nociones de diversos ámbitos como pueden ser el desarrollo de software, redes,
+infraestructura o automatizaciones (en menor medida).
+
+A lo largo de este README.MD encontrarás no solo proyectos que reflejan mi interés por la tecnología y mi entusiasmo en
+crear soluciones que me faciliten el trabajo sino también unas pinceladas de como intento entender la tecnología e
+intento aplicarla en mi día a día encontrando soluciones a los problemas que voy encontrando.
 
 ## Proyectos Personales
 
@@ -56,6 +63,7 @@ desarrollado una aplicación cliente servidor que permite al usuario poner una u
 usuario coge esa url el programa la recupera y muestra al usuario un boton para dirigirla a la web
 
 #### Tecnologias utilizadas:
+
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular logo" width="20" height="20"/> Angular 18
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="20" height="20"/> Bootstrap 
 - <img src="https://rxjs.dev/assets/images/logos/Rx_Logo_S.png" alt="RXJS logo" width="20" height="20"/> RXJS
@@ -65,9 +73,16 @@ usuario coge esa url el programa la recupera y muestra al usuario un boton para 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker logo" width="20" height="20"/> Docker
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker Compose logo" width="20" height="20"/> Docker Compose
 
-
 ## Tecnologias con las que he trabajado
-A lo largo de mi aprendizaje en el desarrollo de software, he tenido la oportunidad de trabajar con diversas tecnologías de manera amateur. He ido más allá de los simples fundamentos, adquiriendo un conocimiento práctico que me permite implementar soluciones efectivas en mis proyectos. A continuación, se presentan algunas de las tecnologías con las que he trabajado más intensamente:
+
+Desde que acabe mi carrera universitaria no he dejado de aprender, esto se ha traducido en la oportunidad de trabajar
+con diversas tecnologías de manera amateur.
+
+Para ello, he implementado soluciones prácticas a los problemas que me han ido surgiendo, adquiriendo un conocimiento
+practivo más allá de los simples fundamentos que me ha permitido implementar soluciones efectivas en mis proyectos. A
+continuación, se presentan algunas de las tecnologías con las que
+he trabajado más intensamente:
+
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular logo" width="20" height="20"/> Angular
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java logo" width="20" height="20"/> Java
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot logo" width="20" height="20"/> Spring Boot
@@ -85,12 +100,16 @@ A lo largo de mi aprendizaje en el desarrollo de software, he tenido la oportuni
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code logo" width="20" height="20"/> VS Code
 
 ## Tecnologias con las que he investigado
-A lo largo de mi trayectoria, he investigado y probado diversas tecnologías que han ampliado mi comprensión del desarrollo y la infraestructura. Estas experiencias me han permitido adquirir conocimientos prácticos que complementan mis habilidades. A continuación, se presentan algunas de las tecnologías que he explorado:
+
+Para poder desarrollar soluciones de todo tipo, primeramente, he investigado y probado diversas tecnologías que han
+ampliado mi comprensión del desarrollo software, las infraestructuras informáticas y las comunicaciones. Estas
+investigaciones personales me han permitido adquirir fundamentos sobre estas tecnologías que, si bien no tengo un amplio
+conocimiento, complementan mis habilidades. A continuación, se presentan algunas de las tecnologías que he explorado:
+
 ```java
 public class MarioBorrego {
 
     private String name = "Mario Borrego";
-    private String web = "https://tuportafolio.com"; // Cambia esto por tu URL
     private String[] investigatedTechnologies = {
         "Synology Active Directory",
         "OpenVPN",
