@@ -1,6 +1,6 @@
 <h1 align="center">¡Hey 👋!  Soy Mario Borrego:</h1>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-borrego-1107a812a/)](https://www.linkedin.com/in/mario-borrego-1107a812a/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-borrego-1107a812a/)](https://www.linkedin.com/in/mario-borrego/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marioborregorodriguez@gmail.com)](mailto:marioborregorodriguez@gmail.com)
 
 ## Acerca de mí 👨‍💻:
