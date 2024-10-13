@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-borrego-1107a812a/)](https://www.linkedin.com/in/mario-borrego-1107a812a/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marioborregorodriguez@gmail.com)](mailto:marioborregorodriguez@gmail.com)
 
-## Acerca de mi 👨‍💻:
+## Acerca de mí 👨‍💻:
 
 ¡Hola! 💻 Me presento: mi nombre es Mario Borrego, tengo 28 años y soy desarrollador de software. Obtuve mi título de Ingeniería
 Informática de Servicios y Aplicaciones por la Universidad de Valladolid. Me defino como una persona apasionada por
@@ -36,7 +36,7 @@ intento aplicarla en mi día a día, encontrando soluciones a los problemas que 
 #### 📄 Descripción
 
 Se trata de una aplicación que permite a los gestores de proyectos de certificación I+D+i
-tener toda la información relevente en un unico dashboard. Para ello, la aplicación permite ir agregando y gestionando
+tener toda la información relevente en un único dashboard. Para ello, la aplicación permite ir agregando y gestionando
 la información de los diferentes actores que se involucran en la certificacion. Ademas de poder controlar las
 etadisticas de los proyectos, permite tener avisos de los tramites pendientes y de sus fechas de vencimiento. Una app
 fundamental y efectiva
@@ -74,8 +74,10 @@ JSON con la información o si bien lo desea, crear una base de datos en MySQL y 
 
 ### Acortador de URL
 
+#### Descripción:
+
 Se trata de un desarrollo desde 0 de las conocidas aplicaciones de acortar URL. Para ello he
-desarrollado una aplicación cliente - servidor que permite al usuario poner una url y acortarla. Cuando el usuario lo desee puede utilizar la URL generada y pegarla en un navegador donde se le mostrará una web desde donde se le habilitará un boton para ir a la web original
+desarrollado una aplicación cliente - servidor que permite al usuario poner una URL y acortarla. Cuando el usuario lo desee puede utilizar la URL generada y pegarla en un navegador donde se le mostrará una web desde donde se le habilitará un botón para ir a la web original
 
 #### Tecnologias utilizadas:
 
@@ -89,7 +91,7 @@ desarrollado una aplicación cliente - servidor que permite al usuario poner una
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="Docker Compose logo" width="20" height="20"/> Docker Compose
 
 #### Enlace al proyecto
-El presente proyecto se compone tanto de un FrontEnd como de un BackEnd, a continuacion adjunto enlace a ambos reoprositorios
+El presente proyecto se compone tanto de un FrontEnd como de un BackEnd. A continuación, adjunto enlace a ambos repositorios
 - [Repositorio del FrontEnd - Acortador FrontEnd](https://github.com/mbr100/acortadorUrlFrontEnd)
 - [Repositorio del BackEnd - Acortador BackEnd](https://github.com/mbr100/acortadorUrlBackEnd)
 
