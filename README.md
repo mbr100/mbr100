@@ -51,6 +51,11 @@ fundamental y efectiva
 - <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase logo" width="20" height="20"/> Firebase Autenticación
 - <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase logo" width="20" height="20"/> Firebase Storage
 
+#### Enlace al proyecto
+
+🔗 [Repositorio en GitHub - SeguimientoProyectos2](https://github.com/mbr100/SeguimientoProyectos2.0)
+
+
 ### 💾 Proyecto: Seguimiento de Proyectos - Backup de Firebase
 
 #### Descripción:
