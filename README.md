@@ -54,6 +54,8 @@ fundamental y efectiva
 #### Enlace al proyecto
 
 🔗 [Repositorio en GitHub - SeguimientoProyectos2](https://github.com/mbr100/SeguimientoProyectos2.0)
+🔗 [Repositorio en GitHub - SeguimientoProyectoFuntions](https://github.com/mbr100/SeguimientoProyectoFuntions)
+
 
 
 ### 💾 Proyecto: Seguimiento de Proyectos - Backup de Firebase
