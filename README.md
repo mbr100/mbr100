@@ -31,6 +31,50 @@ intento aplicarla en mi día a día, encontrando soluciones a los problemas que 
 
 ## Proyectos Personales
 
+### Gestor Documental I+D+i
+#### Descripción
+
+El proyecto Gestor documental I+D+i se ha concebido como una plataforma web basada en la arquitectura cliente servidor para la gestión de documentos en proyectos de deducciones I+D+i. Esta plataforma permite que los diversos actores del proceso puedan acceder a las últimas versiones de los documentos y gestionar las “NCs (No conformidades)” que se puedan encontrar a lo largo del mismo.
+
+
+#### 🛠 Tecnologías Utilizadas
+##### Backend
+- ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white) Spring Framework
+- ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white) Spring Security (para autenticación y autorización)
+- ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) JWT (JSON Web Tokens para autenticación)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL (base de datos)
+- ![JPA](https://img.shields.io/badge/-JPA-59666C?style=flat&logo=java&logoColor=white) JPA (Java Persistence API para ORM)
+- ![Lombok](https://img.shields.io/badge/-Lombok-000000?style=flat&logo=lombok&logoColor=white) Lombok (para reducir código boilerplate)
+- ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white) Swagger (para documentación de APIs)
+
+##### FrontEnd
+
+- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) Angular 19.0.5
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) Bootstrap (para estilos)
+- ![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white) Font Awesome (para iconos)
+- ![NgxEditor](https://img.shields.io/badge/-NgxEditor-0081CB?style=flat&logo=angular&logoColor=white) NgxEditor (para texto enriquecido)
+
+
+#### Funcionalidades
+Actualmente el proyecto dispone de las siguientes caracteristicas:
+- **Gestión Documental**: Permite compartir y organizar archivos entre usuarios.
+- **Resolución de No Conformidades (NC)**:
+    - Responder no conformidades generadas por gestores de proyecto, contables, comités, expertos 4D o técnicos.
+    - Gestión dinámica de estados de las no conformidades hasta su cierre.
+- **Gestión de Proyectos**:
+    - Crear, editar y eliminar proyectos.
+    - Asignar usuarios a proyectos.
+    - Asignar archivos a proyectos.
+- **Gestión de Usuarios**:
+    - Crear, editar y eliminar usuarios.
+    - Restringir el acceso a ciertas rutas según el rol del usuario.
+
+#### Enlace al proyecto
+
+- 🔗 [Repositorio en GitHub - GestorDocumentalFrontEnd](https://github.com/mbr100/GestorDocumentalFrontEnd)
+- 🔗 [Repositorio en GitHub - GestorDocumentalBackEnd](https://github.com/mbr100/GestorDocumentalBackEnd)
+
+
 ### 📊 Seguimiento de Proyectos
 
 #### 📄 Descripción
