@@ -108,7 +108,7 @@ las posibles bajas y horas maximas deducibles por trabajador.
 
 #### Enlace al proyecto
 - 🔗 [Repositorio en GitHub - CalculadoraDeduccionesFrontEnd](https://github.com/mbr100/CalculoDeduccionesFrontEnd)
-- 🔗 [Repositorio en GitHub - CalculadoraDeduccionesBackEnd](https://github.com/mbr100/GestorDocumentalBackEnd)
+- 🔗 [Repositorio en GitHub - CalculadoraDeduccionesBackEnd](https://github.com/mbr100/CalculoDeduccionesBackEnd)
 - 
 
 
