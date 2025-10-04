@@ -74,6 +74,44 @@ Actualmente el proyecto dispone de las siguientes caracteristicas:
 - 🔗 [Repositorio en GitHub - GestorDocumentalFrontEnd](https://github.com/mbr100/GestorDocumentalFrontEnd)
 - 🔗 [Repositorio en GitHub - GestorDocumentalBackEnd](https://github.com/mbr100/GestorDocumentalBackEnd)
 
+### Calculadora de Deducciones I+D+i
+#### 📄 Descripción
+Se trata de una aplicación web que permite a los gestores de proyectos de certificación I+D+i
+calcular las deducciones que pueden aplicar a sus proyectos. La aplicación permite introducir los datos
+relevantes del proyecto y calcula automáticamente las deducciones aplicables según la normativa vigente.
+
+Actualmente, la aplicación permite calcular las deducciones para proyectos de I+D, I+D+i en la partida de personal teniendo en cuenta 
+las bonificaciones a la seguridad social y las remunraciones y segurores sociales de los trabajadores. Por otra parte se tiene en cuenta 
+las posibles bajas y horas maximas deducibles por trabajador.
+
+### 🛠 Tecnologías Utilizadas
+
+#### 🌐 Frontend
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular logo" width="20" height="20"/> Angular 20
+- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS logo" width="20" height="20"/> Tailwind CSS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="20" height="20"/> Bootstrap
+- <img src="https://rxjs.dev/assets/images/logos/Rx_Logo_S.png" alt="RXJS logo" width="20" height="20"/> RxJS
+- <img src="https://img.shields.io/badge/NgxEditor-ngx--editor-blue?style=flat-square" alt="NgxEditor logo" width="90" height="20"/> NgxEditor (editor de texto enriquecido)
+- <img src="https://img.shields.io/badge/Lombok-project--lombok-orange?style=flat-square" alt="Lombok logo" width="90" height="20"/> Lombok (reducción de boilerplate)
+
+#### ⚙️ Backend
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java logo" width="20" height="20"/> Java 21
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot logo" width="20" height="20"/> Spring Boot 3.5- Spring Web (APIs REST)
+
+    - Spring Validation
+    - Spring Actuator (monitorización)
+    - Spring Data JPA (persistencia)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL logo" width="20" height="20"/> MySQL (Base de datos)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger logo" width="20" height="20"/> OpenAPI / Swagger (documentación de APIs)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven logo" width="20" height="20"/> Maven (gestión de dependencias y build)
+- <img src="https://avatars.githubusercontent.com/u/367802?s=200&v=4" alt="Jsoup logo" width="20" height="20"/> JSoup (procesamiento de HTML)
+
+#### Enlace al proyecto
+- 🔗 [Repositorio en GitHub - CalculadoraDeduccionesFrontEnd](https://github.com/mbr100/CalculoDeduccionesFrontEnd)
+- 🔗 [Repositorio en GitHub - CalculadoraDeduccionesBackEnd](https://github.com/mbr100/GestorDocumentalBackEnd)
+- 
+
+
 
 ### 📊 Seguimiento de Proyectos
 
