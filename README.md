@@ -106,10 +106,12 @@ las posibles bajas y horas maximas deducibles por trabajador.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven logo" width="20" height="20"/> Maven (gestión de dependencias y build)
 - <img src="https://avatars.githubusercontent.com/u/367802?s=200&v=4" alt="Jsoup logo" width="20" height="20"/> JSoup (procesamiento de HTML)
 
+Este proyecto se ha desarrollando utilizando tecnologias de IA para ayudar a la hora de programar. En concreto, se ha utilizado Claude de Anthropic para generar código de los componetes de la parte de tailwind y me ha ayudado a la hora de resolver dudas de programación. Tambien me ha ayudado a crear las cuadriculas y los metodos de mostrar si se esta acutalizando correctamente la información en pantalla.
+
+
 #### Enlace al proyecto
 - 🔗 [Repositorio en GitHub - CalculadoraDeduccionesFrontEnd](https://github.com/mbr100/CalculoDeduccionesFrontEnd)
 - 🔗 [Repositorio en GitHub - CalculadoraDeduccionesBackEnd](https://github.com/mbr100/CalculoDeduccionesBackEnd)
-- 
 
 
 
